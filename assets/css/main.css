@@ -3517,7 +3517,7 @@ input, select, textarea {
 	}
 
 	#header + #wrapper + #footer > .inner {
-		margin: 0 auto;
+		margin: 70px;
 	}
 
 /* Sidebar */
